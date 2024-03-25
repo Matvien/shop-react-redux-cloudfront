@@ -11,7 +11,6 @@ import { Typography } from "@mui/material";
 function App() {
   return (
     <MainLayout>
-      Matvienko Evgenii
       <Routes>
         <Route path="/" element={<PageProducts />} />
         <Route path="cart" element={<PageCart />} />
