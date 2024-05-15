@@ -1,4 +1,5 @@
-link to the SPA: d4n99due5b1wy.cloudfront.net
+link to the SPA:
+d4n99due5b1wy.cloudfront.net
 
 # React-shop-cloudfront
 
